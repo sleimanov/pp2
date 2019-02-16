@@ -1,0 +1,7 @@
+c:\users\азамат\source\repos\lab1_3\lab1_3\bin\Debug\lab1_3.exe.config
+c:\users\азамат\source\repos\lab1_3\lab1_3\bin\Debug\lab1_3.exe
+c:\users\азамат\source\repos\lab1_3\lab1_3\bin\Debug\lab1_3.pdb
+c:\users\азамат\source\repos\lab1_3\lab1_3\obj\Debug\lab1_3.csprojAssemblyReference.cache
+c:\users\азамат\source\repos\lab1_3\lab1_3\obj\Debug\lab1_3.csproj.CoreCompileInputs.cache
+c:\users\азамат\source\repos\lab1_3\lab1_3\obj\Debug\lab1_3.exe
+c:\users\азамат\source\repos\lab1_3\lab1_3\obj\Debug\lab1_3.pdb

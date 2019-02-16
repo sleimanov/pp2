@@ -1,0 +1,7 @@
+C:\Users\Азамат\source\repos\LAB_3\FarManager\FarManager\bin\Debug\FarManager.exe.config
+C:\Users\Азамат\source\repos\LAB_3\FarManager\FarManager\bin\Debug\FarManager.exe
+C:\Users\Азамат\source\repos\LAB_3\FarManager\FarManager\bin\Debug\FarManager.pdb
+C:\Users\Азамат\source\repos\LAB_3\FarManager\FarManager\obj\Debug\FarManager.csprojAssemblyReference.cache
+C:\Users\Азамат\source\repos\LAB_3\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\Азамат\source\repos\LAB_3\FarManager\FarManager\obj\Debug\FarManager.exe
+C:\Users\Азамат\source\repos\LAB_3\FarManager\FarManager\obj\Debug\FarManager.pdb
